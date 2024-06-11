@@ -1,5 +1,0 @@
-# Ignore Composer Dependencies
-vendor/
-
-# Ignore IDE files
-.vscode/
